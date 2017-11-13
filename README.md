@@ -1,6 +1,6 @@
 Automation
 
-To run it you will need install following gems: **Selenium-Webdriver, Capybara, Colorize**. (or if you have them just skip this step)
+To run it you will need install following gems: **Selenium-Webdriver, Capybara, Colorize**. (or if you have them, just skip this step)
 
 Run the script you can with the command 
 
